@@ -1,0 +1,2 @@
+1,Matthew Isiderio,1st Year,BSIT,1.5
+2,Erl Justine Sarim,2nd Year,BSCS,2.01
