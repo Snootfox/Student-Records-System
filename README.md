@@ -1,3 +1,4 @@
+## ===Work in Progress===
 # Student Records Filtering System
  
 A system that helps school administrators rank and identify students based on set criteria, especially for scholarship screening.
@@ -23,3 +24,9 @@ Schools often struggle to rank students and find who qualifies for scholarships 
 | (Member 1) | _(Frontend & Backend Developer)_ |
 | _(Member 2)_ | _(Github Repository)_ |
 | _(Member 3)_ | _(UML Diagram)_ |
+
+## Under Construction
+- Scholarship Eligibility table display
+- Scholarship Type filter
+- Scholarship Tab Program
+- Export List
