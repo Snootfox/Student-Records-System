@@ -21,7 +21,7 @@ Schools often struggle to rank students and find who qualifies for scholarships 
  
 | Name | Role |
 |---|---|
-| (Matthew Isiderio) | _(Frontend & Backend Developer)_ |
+| _(Matthew Isiderio)_ | _(Frontend & Backend Developer)_ |
 | _(Sam Corteza)_ | _(Github Repository)_ |
 | _(Erl Sarim)_ | _(UML Diagram)_ |
 
