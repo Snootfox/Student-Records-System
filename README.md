@@ -21,9 +21,9 @@ Schools often struggle to rank students and find who qualifies for scholarships 
  
 | Name | Role |
 |---|---|
-| _(Matthew Isiderio)_ | _(Frontend & Backend Developer)_ |
-| _(Sam Corteza)_ | _(Github Repository)_ |
-| _(Erl Sarim)_ | _(UML Diagram)_ |
+| _Matthew Isiderio_ | _(Frontend & Backend Developer)_ |
+| _Sam Cortiza_ | _(Github Repository)_ |
+| _Erl Sarim_ | _(UML Diagram)_ |
 
 ## Under Construction
 - Scholarship Eligibility table display
